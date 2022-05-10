@@ -1,3 +1,4 @@
+# Create a plot using pyplot of a rectangle within another rectangle 
 # -*- coding: utf-8 -*-
 """Midterm-Plot.ipynb
 

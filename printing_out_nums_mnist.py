@@ -1,3 +1,5 @@
+#Given an input string, print out thenumbers as photos from MNIST database using machine learning
+
 # -*- coding: utf-8 -*-
 """printing_out_nums_mnist.ipynb
 
@@ -32,8 +34,12 @@ def drawing_with_mnist(Input):
       plt.show()
       index += 1
 
+#put User_String into the drawing_with_mnist function and then print the image to console
 print("Ryan Michels - \"" + User_String +"\"")
 drawing_with_mnist(User_String)
+
+
+#-----------------------------------------------Another program, Same thing - different photos.
 
 import numpy as np
 from keras.datasets import cifar10

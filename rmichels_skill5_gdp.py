@@ -1,3 +1,4 @@
+# Using the given dataset, plot the GDP's of several countries against one another.
 # -*- coding: utf-8 -*-
 """RMichels-Skill5-GDP.ipynb
 

@@ -1,3 +1,4 @@
+# This program creates a star design within a circle using the ColabTurtle library
 # -*- coding: utf-8 -*-
 """colab_turtle-turtle.ipynb
 
